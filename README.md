@@ -16,6 +16,9 @@ ok, i added a new feature
  - programming editor plugins 
  - otter browser support 
  - and much more
+
+#### Priviews
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-221210.jpg">
 #### Command Instaling
 ```bash
 pkg update -y && pkg uphrade -y
