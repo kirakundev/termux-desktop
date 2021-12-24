@@ -4,8 +4,17 @@
 <p align="center">
 <img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220119.jpg">
 </p>
-#### Riview
+#### whats news?
 
+ok, i added a new feature
+ - supports wireshark
+ - other aliens and parian themes 
+ - fix display
+ - fixed config issues
+ - version of basic programming v.1.01
+ - programming editor plugins 
+ - otter browser support 
+ - and much more
 #### Command Instaling
 ```bash
 pkg update -y && pkg uphrade -y
