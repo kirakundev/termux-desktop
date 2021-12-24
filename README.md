@@ -2,21 +2,9 @@
 
 <h1 align="center">Termux Desktop</h1>
 <p align="center">
-•●•
-</p>
-<p align="center">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232818.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220119.jpg">
 </p>
 #### Riview
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232552.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232610.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232629.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232644.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232703.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232745.jpg">
-<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232802.jpg">
-<imh src="https://github.com/WarceuHunter/termux-desktop/blob/main/file/ss/IMG_20210914_232834.jpg">
-</p>
 
 #### Command Instaling
 ```bash
