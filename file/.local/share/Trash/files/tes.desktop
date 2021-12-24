@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=tes
+Comment=
+Exec=bash
+Icon=
+Path=/data/data/com.termux/files/home
+Terminal=true
+StartupNotify=false

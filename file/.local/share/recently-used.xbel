@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Business%20Documents/macOS-Dark-6.1-dark.zip" added="2021-12-04T18:42:46.052540Z" modified="2021-12-04T18:42:46.052682Z" visited="2021-12-04T18:42:46.052548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-04T18:42:46.052564Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Documents/Windows-11.tar.xz" added="2021-12-04T18:46:16.267137Z" modified="2021-12-04T18:46:16.267180Z" visited="2021-12-04T18:46:16.267144Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-04T18:46:16.267157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Documents/Inverse-black.tar.xz" added="2021-12-04T18:47:47.486061Z" modified="2021-12-04T18:48:08.201735Z" visited="2021-12-04T18:47:47.486069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-04T18:48:08.201709Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Documents/Mojave-dark.tar.xz" added="2021-12-04T18:51:03.804339Z" modified="2021-12-04T18:51:03.804387Z" visited="2021-12-04T18:51:03.804346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-04T18:51:03.804363Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Documents/macOS-6.1.zip" added="2021-12-04T19:05:22.959463Z" modified="2021-12-04T19:05:22.959505Z" visited="2021-12-04T19:05:22.959470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-04T19:05:22.959483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr/bin/otter-browser" added="2021-12-04T19:13:21.142399Z" modified="2021-12-04T19:13:21.142432Z" visited="2021-12-04T19:13:21.142406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-mime-helper" exec="&apos;xfce4-mime-helper %u&apos;" modified="2021-12-04T19:13:21.142416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct" added="2021-12-05T00:21:44.417040Z" modified="2021-12-12T02:58:01.798721Z" visited="2021-12-05T00:21:44.417050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:58:01.798703Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2021-12-05T00:26:59.889628Z" modified="2021-12-13T15:27:33.094417Z" visited="2021-12-05T00:26:59.889639Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-13T15:27:33.094388Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data" added="2021-12-05T00:27:05.313604Z" modified="2021-12-20T14:16:52.430423Z" visited="2021-12-05T00:27:05.313618Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T14:16:52.430409Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///config" added="2021-12-05T00:29:30.540371Z" modified="2021-12-05T00:29:30.540418Z" visited="2021-12-05T00:29:30.540381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-05T00:29:30.540396Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads" added="2021-12-05T00:34:34.778449Z" modified="2021-12-20T18:00:23.527230Z" visited="2021-12-05T00:34:34.778457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-09T15:51:25.576322Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T18:00:23.527217Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/xfce-rightpanel-layout.tar.bz2" added="2021-12-05T08:04:58.456495Z" modified="2021-12-05T08:04:58.456538Z" visited="2021-12-05T08:04:58.456503Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-05T08:04:58.456516Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/tes.html" added="2021-12-05T09:31:12.774905Z" modified="2021-12-05T09:31:41.233502Z" visited="2021-12-05T09:31:12.774913Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-05T09:31:41.233486Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/dcim/Screenshots" added="2021-12-06T13:53:35.470725Z" modified="2021-12-12T02:05:39.171180Z" visited="2021-12-06T13:53:35.470732Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-06T13:53:35.470750Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:05:39.171163Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr/share/backgrounds/xfce" added="2021-12-06T14:02:37.953023Z" modified="2021-12-06T14:02:37.953068Z" visited="2021-12-06T14:02:37.953030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-06T14:02:37.953045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/Locator-V1.1/ip.php" added="2021-12-07T13:18:14.916052Z" modified="2021-12-07T13:18:15.071029Z" visited="2021-12-07T13:18:14.916060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-07T13:18:15.071016Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.icons" added="2021-12-08T14:08:56.756091Z" modified="2021-12-22T15:50:14.459226Z" visited="2021-12-08T14:08:56.756104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-22T15:50:14.459199Z" count="11"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2021-12-12T01:15:28.636544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.local" added="2021-12-08T14:09:06.589935Z" modified="2021-12-12T01:05:00.382481Z" visited="2021-12-08T14:09:06.589944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T01:05:00.382457Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.local/share" added="2021-12-08T14:09:08.359550Z" modified="2021-12-12T01:05:02.275448Z" visited="2021-12-08T14:09:08.359558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T01:05:02.275426Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.local/share/xfce4" added="2021-12-08T14:09:13.091851Z" modified="2021-12-08T14:13:33.401959Z" visited="2021-12-08T14:09:13.091859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:13:33.401938Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.local/share/xfce4/helpers" added="2021-12-08T14:09:14.983862Z" modified="2021-12-08T14:13:35.120504Z" visited="2021-12-08T14:09:14.983871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:13:35.120484Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config" added="2021-12-08T14:09:32.905760Z" modified="2021-12-12T02:57:29.224911Z" visited="2021-12-08T14:09:32.905769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:57:29.224888Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/fish" added="2021-12-08T14:09:35.395197Z" modified="2021-12-08T14:09:35.395242Z" visited="2021-12-08T14:09:35.395206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:09:35.395221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/fish/config.fish" added="2021-12-08T14:09:41.938973Z" modified="2021-12-08T14:09:45.464017Z" visited="2021-12-08T14:09:41.938982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:09:41.939073Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-08T14:09:45.463997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/fish/functions" added="2021-12-08T14:10:04.819308Z" modified="2021-12-08T14:10:04.819353Z" visited="2021-12-08T14:10:04.819316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:10:04.819331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4" added="2021-12-08T14:10:16.602249Z" modified="2021-12-08T14:13:50.811379Z" visited="2021-12-08T14:10:16.602258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:13:50.811359Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/panel" added="2021-12-08T14:10:19.493106Z" modified="2021-12-08T14:10:19.493153Z" visited="2021-12-08T14:10:19.493116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:10:19.493130Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/panel/launcher-19" added="2021-12-08T14:10:23.818560Z" modified="2021-12-08T14:10:23.818608Z" visited="2021-12-08T14:10:23.818568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:10:23.818586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/panel/launcher-17" added="2021-12-08T14:10:28.159140Z" modified="2021-12-08T14:10:39.591619Z" visited="2021-12-08T14:10:28.159151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:10:39.591596Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/panel/launcher-18" added="2021-12-08T14:10:33.276355Z" modified="2021-12-08T14:10:33.276399Z" visited="2021-12-08T14:10:33.276363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:10:33.276378Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/xfconf" added="2021-12-08T14:10:49.275703Z" modified="2021-12-08T14:14:05.507881Z" visited="2021-12-08T14:10:49.275713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:14:05.507858Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/xfconf/xfce-perchannel-xml" added="2021-12-08T14:10:52.425585Z" modified="2021-12-08T14:14:08.247821Z" visited="2021-12-08T14:10:52.425593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:14:08.247797Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml" added="2021-12-08T14:10:59.750356Z" modified="2021-12-08T14:10:59.750413Z" visited="2021-12-08T14:10:59.750366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-08T14:10:59.750392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.ssh" added="2021-12-08T14:13:21.481080Z" modified="2021-12-10T15:57:39.424945Z" visited="2021-12-08T14:13:21.481108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-10T15:57:39.424925Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/xfce4/xfwm4" added="2021-12-08T14:13:54.620256Z" modified="2021-12-08T14:13:54.620306Z" visited="2021-12-08T14:13:54.620264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-08T14:13:54.620283Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Images" added="2021-12-09T15:49:18.321561Z" modified="2021-12-09T15:49:18.321606Z" visited="2021-12-09T15:49:18.321569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-09T15:49:18.321581Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared/WhatsApp/Media/WhatsApp%20Business%20Images" added="2021-12-09T15:49:59.781233Z" modified="2021-12-09T15:49:59.781274Z" visited="2021-12-09T15:49:59.781241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-09T15:49:59.781253Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.icons/Inverse-black" added="2021-12-10T15:49:50.213165Z" modified="2021-12-10T16:01:50.076973Z" visited="2021-12-10T15:49:50.213178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-10T16:01:50.076957Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.themes" added="2021-12-10T15:51:39.780020Z" modified="2021-12-22T15:46:19.331965Z" visited="2021-12-10T15:51:39.780029Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-22T15:46:19.331945Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/data.tar.xz" added="2021-12-10T15:53:17.408315Z" modified="2021-12-10T15:53:17.408392Z" visited="2021-12-10T15:53:17.408335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-10T15:53:17.408359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/KvArc.zip" added="2021-12-10T15:55:55.460144Z" modified="2021-12-10T15:55:55.460194Z" visited="2021-12-10T15:55:55.460154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-appearance-settings" exec="&apos;xfce4-appearance-settings %u&apos;" modified="2021-12-10T15:55:55.460169Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home" added="2021-12-10T15:56:51.127266Z" modified="2021-12-20T18:00:41.471378Z" visited="2021-12-10T15:56:51.127273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T18:00:41.471366Z" count="33"/>
+          <bookmark:application name="exo-desktop-item-edit" exec="&apos;exo-desktop-item-edit %u&apos;" modified="2021-12-18T15:12:20.508287Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.termux" added="2021-12-10T15:57:09.713701Z" modified="2021-12-10T15:57:09.713911Z" visited="2021-12-10T15:57:09.713708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-10T15:57:09.713895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage" added="2021-12-10T16:00:39.760588Z" modified="2021-12-20T18:00:21.946290Z" visited="2021-12-10T16:00:39.760597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T18:00:21.946276Z" count="18"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/Qogir" added="2021-12-10T16:01:47.199143Z" modified="2021-12-10T16:01:47.199183Z" visited="2021-12-10T16:01:47.199151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-10T16:01:47.199165Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/projects/mypro.geany" added="2021-12-10T16:38:34.867278Z" modified="2021-12-10T16:39:15.718611Z" visited="2021-12-10T16:38:34.867288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-10T16:39:15.718594Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.icons/Nordic-cursors.tar.xz" added="2021-12-12T01:09:09.044658Z" modified="2021-12-12T01:09:09.044758Z" visited="2021-12-12T01:09:09.044719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-12-12T01:09:09.044734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/Qogir-ubuntu-cursors.tar.xz" added="2021-12-12T01:14:55.457225Z" modified="2021-12-12T01:14:55.457262Z" visited="2021-12-12T01:14:55.457233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2021-12-12T01:14:55.457244Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/dcim" added="2021-12-12T01:43:12.044402Z" modified="2021-12-17T13:52:28.388306Z" visited="2021-12-12T01:43:12.044409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-17T13:52:28.388288Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.image" added="2021-12-12T01:44:22.912119Z" modified="2021-12-23T17:12:37.801557Z" visited="2021-12-12T01:44:22.912129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T18:00:43.698972Z" count="22"/>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-12-23T17:12:37.801540Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/Desktop" added="2021-12-12T01:44:40.959156Z" modified="2021-12-12T01:44:40.959632Z" visited="2021-12-12T01:44:40.959164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T01:44:40.959617Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/pictures" added="2021-12-12T01:48:59.825110Z" modified="2021-12-17T13:52:44.259478Z" visited="2021-12-12T01:48:59.825118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-17T13:52:44.259464Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/pictures/PicSayPro" added="2021-12-12T01:49:01.573884Z" modified="2021-12-17T13:44:19.670757Z" visited="2021-12-12T01:49:01.573891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-17T13:44:19.670742Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/shared" added="2021-12-12T02:04:39.792174Z" modified="2021-12-12T02:04:39.792214Z" visited="2021-12-12T02:04:39.792181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:04:39.792194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.config/gtk-3.0" added="2021-12-12T02:57:40.347329Z" modified="2021-12-12T02:57:40.347370Z" visited="2021-12-12T02:57:40.347339Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:57:40.347352Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///acct/uid" added="2021-12-12T02:58:06.602186Z" modified="2021-12-12T02:58:06.602305Z" visited="2021-12-12T02:58:06.602194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-12T02:58:06.602249Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr" added="2021-12-13T15:27:41.992624Z" modified="2021-12-13T15:27:41.992661Z" visited="2021-12-13T15:27:41.992631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-13T15:27:41.992643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr/share" added="2021-12-13T15:27:45.697446Z" modified="2021-12-13T15:27:45.697482Z" visited="2021-12-13T15:27:45.697453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-13T15:27:45.697466Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr/share/applications" added="2021-12-13T15:27:48.575601Z" modified="2021-12-13T15:27:48.575639Z" visited="2021-12-13T15:27:48.575608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-13T15:27:48.575621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/usr/share/applications/xfce4-about.desktop" added="2021-12-13T15:28:03.995974Z" modified="2021-12-13T15:28:03.996176Z" visited="2021-12-13T15:28:03.995982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-13T15:28:03.996157Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/Desktop/tes.sh" added="2021-12-13T15:39:41.843881Z" modified="2021-12-13T15:39:41.843917Z" visited="2021-12-13T15:39:41.843888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-13T15:39:41.843905Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.image/icon" added="2021-12-17T13:43:44.171862Z" modified="2021-12-20T17:59:59.247183Z" visited="2021-12-17T13:43:44.171870Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-20T17:59:59.247169Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/pictures/_Rockey" added="2021-12-17T13:52:46.855158Z" modified="2021-12-17T13:52:46.855194Z" visited="2021-12-17T13:52:46.855165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-17T13:52:46.855178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.image/icon/BackgroundEraser_20211217_205022425.png" added="2021-12-17T17:59:37.454228Z" modified="2021-12-17T17:59:37.454259Z" visited="2021-12-17T17:59:37.454235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-17T17:59:37.454246Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/oh.sh" added="2021-12-18T15:09:57.193253Z" modified="2021-12-24T10:15:21.300350Z" visited="2021-12-18T15:09:57.193266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-18T15:09:57.193290Z" count="1"/>
+          <bookmark:application name="exo-desktop-item-edit" exec="&apos;exo-desktop-item-edit %u&apos;" modified="2021-12-18T15:11:06.261068Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-24T10:15:21.300338Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop" added="2021-12-18T17:32:28.374663Z" modified="2021-12-18T17:45:50.398296Z" visited="2021-12-18T17:32:28.374674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-18T17:45:50.398204Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/file" added="2021-12-18T17:32:35.495593Z" modified="2021-12-18T17:32:35.495632Z" visited="2021-12-18T17:32:35.495601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-18T17:32:35.495615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/file/.dbus%20(copy%201)" added="2021-12-18T17:37:38.173260Z" modified="2021-12-18T17:37:38.173432Z" visited="2021-12-18T17:37:38.173393Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-18T17:37:38.173414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/.dbus" added="2021-12-18T17:37:48.500696Z" modified="2021-12-18T17:37:48.500731Z" visited="2021-12-18T17:37:48.500704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2021-12-18T17:37:48.500716Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/file/install.sh" added="2021-12-20T14:29:24.787805Z" modified="2021-12-22T12:22:56.594339Z" visited="2021-12-20T14:29:24.787812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:22:56.594320Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/myproject/wh-tech/main.sh" added="2021-12-20T18:04:56.497422Z" modified="2021-12-20T18:04:56.497456Z" visited="2021-12-20T18:04:56.497429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:04:56.497444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/myproject/wh-tech/tools/tool.sh" added="2021-12-20T18:07:42.948748Z" modified="2021-12-20T18:07:42.948786Z" visited="2021-12-20T18:07:42.948754Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:07:42.948771Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/myproject/wh-tech/tools/install.sh" added="2021-12-20T18:10:53.474240Z" modified="2021-12-20T18:10:53.474278Z" visited="2021-12-20T18:10:53.474246Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:10:53.474266Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/myproject/wh-tech/tools/main.sh" added="2021-12-20T18:11:06.529571Z" modified="2021-12-20T18:11:06.529607Z" visited="2021-12-20T18:11:06.529577Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:11:06.529594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/sbf-mbf/app/sbf/sbf.py" added="2021-12-20T18:15:20.402177Z" modified="2021-12-20T18:15:20.402211Z" visited="2021-12-20T18:15:20.402183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:15:20.402199Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/toolkit-for-fb/manifest.json" added="2021-12-20T18:16:53.752117Z" modified="2021-12-20T18:16:53.752161Z" visited="2021-12-20T18:16:53.752126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-20T18:16:53.752145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/storage/downloads/toolkit-for-fb/html_background/background.html" added="2021-12-21T05:54:02.750658Z" modified="2021-12-21T05:54:02.750702Z" visited="2021-12-21T05:54:02.750674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-21T05:54:02.750690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/data/install.sh" added="2021-12-22T11:55:34.028867Z" modified="2021-12-22T11:55:34.303540Z" visited="2021-12-22T11:55:34.028879Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T11:55:34.303522Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/.git/config" added="2021-12-22T12:19:17.283245Z" modified="2021-12-22T12:19:17.283291Z" visited="2021-12-22T12:19:17.283254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:19:17.283274Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/.git/refs/heads/main" added="2021-12-22T12:20:03.515348Z" modified="2021-12-22T12:20:03.515383Z" visited="2021-12-22T12:20:03.515355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:20:03.515370Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/file/bash.bashrc" added="2021-12-22T12:20:28.113719Z" modified="2021-12-22T12:20:28.113753Z" visited="2021-12-22T12:20:28.113725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:20:28.113741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/.git/refs/remotes/origin/HEAD" added="2021-12-22T12:36:13.821778Z" modified="2021-12-22T12:36:13.821819Z" visited="2021-12-22T12:36:13.821785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:36:13.821806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/.git/description" added="2021-12-22T12:36:48.860287Z" modified="2021-12-22T12:36:48.860321Z" visited="2021-12-22T12:36:48.860293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:36:48.860308Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/main.sh" added="2021-12-22T12:49:39.095715Z" modified="2021-12-22T12:49:39.095756Z" visited="2021-12-22T12:49:39.095722Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T12:49:39.095743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/file/.bashrc" added="2021-12-22T15:35:19.472983Z" modified="2021-12-22T15:35:19.473026Z" visited="2021-12-22T15:35:19.472991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T15:35:19.473011Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///data/data/com.termux/files/home/termux-desktop/README.md" added="2021-12-22T15:43:46.400364Z" modified="2021-12-22T15:43:46.400451Z" visited="2021-12-22T15:43:46.400375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-markdown"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-12-22T15:43:46.400420Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

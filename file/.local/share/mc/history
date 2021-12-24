@@ -1,0 +1,11 @@
+[inpmc.fm.mkdir]
+0=mypro
+
+[input-def]
+0=*
+
+[input2]
+0=/data/data/com.termux/files/home/storage/shared/mypro/
+1=/data/data/com.termux/files/home/termux-desktop/
+2=/data/data/com.termux/files/home/
+3=/data/data/com.termux/files/home/termux-desktop/file/
