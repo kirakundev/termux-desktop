@@ -19,6 +19,11 @@ ok, i added a new feature
 
 #### Priviews
 <img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-221210.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220818.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220721.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220411.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220210.jpg">
+<img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220142.jpg">
 
 #### Command Instaling
 ```bash
@@ -37,6 +42,7 @@ bash main.sh
 #### Development
 <p><b>Auth:</b>Ers ID(Muhammad Eris)
 <p><b>Client:</b><a href="https://github.com/yisus7u7">Yisus7u7</a>
+<p><b>My Mastah:</b> Kkimfir,Jiklas,Adhan Mnd
 </p>
 
 #### Info Desktop
@@ -53,9 +59,7 @@ bash main.sh
 [![](https://img.shields.io/badge/Forum-Group-blue?logo=Telegram&logoColorBrightblue&LabelColor=white)](https://t.me/joinchat/8k7velZ7UjY5NmQ1)
 #### Donate :
 <b>⬇️⬇️⬇️⬇️ Clik Logo To Donate</b>
-<a href="https://saweria.co/WarceuHunter"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
+<a href="https://www.paypal.com/paypalme/yagamiid">Click me for donate</a>
 
 #### TANKS FOR SUPPORT
-<a href="https://github.com/yisus7u7">Yisus7u7</a>
-
-
+All Family Warceu Hunter
