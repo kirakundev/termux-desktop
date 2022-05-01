@@ -36,7 +36,7 @@ pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y 
 ##########PACKAGES MAIN
-apt install -y  curl neofetch wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui audaciousv qt5-qtbase-gtk-platformtheme kvantum  qt5ct qt-creator
+apt install -y  curl neofetch wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui audaciousv qt5-qtbase-gtk-platformtheme kvantum qt5ct qt-creator vim
 
  ##########SETUP DIR mv .themes $HOME
 
