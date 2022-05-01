@@ -27,27 +27,27 @@ ok, i added a new feature
 
 #### Command Instaling
 ```bash
-pkg update -y && pkg uphrade -y
+apt update -y && pkg upgrade -y
 pkg install -y root-repo
 pkg install -y unstable-repo
 pkg install -y x11-repo
-pkg install git -y
+apt install git -y
 git clone https://github.com/WarceuHunter/termux-desktop
 cd termux-desktop
 chmod +x *
-bash main.sh
+./main.sh
 ```
 #### Note:
- Your device must support. At least Android version 7.0 and has enough space, minimum 2gb of ram
+ Your device must support. At least Android version 7.0 and has enough space, minimum 1GB of ram, and minimum 2GB of storage
 #### Development
-<p><b>Auth:</b>Ers ID(Muhammad Eris)
-<p><b>Client:</b><a href="https://github.com/yisus7u7">Yisus7u7</a>
-<p><b>My Mastah:</b> Kkimfir,Jiklas,Adhan Mnd
+<p><b>Auth: </b>Ers ID(Muhammad Eris)
+<p><b>Client: </b><a href="https://github.com/yisus7u7">Yisus7u7</a>
+<p><b>My Mastah:</b> <a href="github.com/kklmfir">Kklmfir</a>, Jiklas, Adhan Mnd
 </p>
 
 #### Info Desktop
-<p><b>Desktop:</b>XFCE4
-<p><b>Version:</b>4.16
+<p><b>Desktop: </b>XFCE4 with Xfwm as window manager
+<p><b>Version: </b>4.16
 </p>
 
 ### Github Stats
