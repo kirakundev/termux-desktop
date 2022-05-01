@@ -49,7 +49,7 @@ apt install -y  curl neofetch wget mpv-x xfce* geany thunar leafpad zenity xorg*
  #
  cd $HOME/termux-desktop/file
  mv .config $HOME
- mv .dbus $HOME
+ # mv .dbus $HOME
  mv .gnupg $HOME
  mv .icons $HOME
  mv .image $HOME
@@ -57,7 +57,7 @@ apt install -y  curl neofetch wget mpv-x xfce* geany thunar leafpad zenity xorg*
  mv .themes $HOME
  mv .vnc $HOME
  mv .bashrc $HOME
- mv Desktop $HOME
+ # mv Desktop $HOME
  
  cd $HOME 
  
