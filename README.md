@@ -42,7 +42,7 @@ chmod +x *
 #### Development
 <p><b>Auth:</b> Ers ID(Muhammad Eris)
 <p><b>Client:</b> <a href="https://github.com/yisus7u7">Yisus7u7</a>
-<p><b>My Mastah:</b> <a href='https://github.com/kklmfir>kkImfir</a>, Jiklas, Adhan Mnd
+<p><b>My Mastah:</b> <a href='https://github.com/kklmfir'> kkImfir </a>, Jiklas, Adhan Mnd
 </p>
 
 #### Info Desktop
