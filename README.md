@@ -35,7 +35,7 @@ apt install git -y
 git clone https://github.com/WarceuProject/termux-desktop
 cd termux-desktop
 chmod +x *
-./ain.sh
+./main.sh
 ```
 #### Note:
  Your device must support. At least Android version 7.0 and has enough space, minimum 2GiB of ram, and minimum 2GiB of storage
