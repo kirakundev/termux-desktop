@@ -32,7 +32,7 @@ pkg install -y root-repo
 pkg install -y unstable-repo
 pkg install -y x11-repo
 apt install git -y
-git clone https://github.com/WarceuHunter/termux-desktop
+git clone https://github.com/WarceuProject/termux-desktop
 cd termux-desktop
 chmod +x *
 ./ain.sh
