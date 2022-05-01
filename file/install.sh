@@ -9,8 +9,7 @@
 # - Ok disini saya meng update project termux-desktop
 # - Saya menambahkan parian fitur lainnya
 # - Dan memperbaiki bug pada project ini
-# - termux desktop ini di update pada Rabu,22 Des 2021
-# - Dirilis pada
+# - termux desktop ini dirilis pada Rabu,22 Des 2021
 clear
 #####COLOR
 w='\e[1;37m'
@@ -24,7 +23,7 @@ b='\e[1;34m'
  $w          ▐▓█░░▀░░▀▄░░█▓▌░█▄▄▄█░  [$g+$w]$y Project   :$w Termux-Desktop$y Version$r 1.01
  $w          ▐▓█░░▄░░▄▀░░█▓▌░█▄▄▄█░  [$g+$w]$y DE Version:$r 4.16
  $w          ▐▓█▄▄▄▄▄▄▄▄▄█▓▌░█████░  [$g+$w]$y Desktop   :$w XFCE4
- $w          ░░░░▄▄███▄▄░░░░░█████░ $g•$w Thank's for $g Kkimfir,Jiklas,Adhan Mnd$w to support me ^-^$g•
+ $w          ░░░░▄▄███▄▄░░░░░█████░ $g•$w Thank's for $g kklmfir,Jiklas,Adhan Mnd$w to support me ^-^$g•
        $r•$y•$g•$b Termux-Desktop-Xfce4 $r•$y•$g•
 """
 echo -e "$w[$g Enter to Install$w ]"
@@ -32,12 +31,12 @@ read
 #########Installing 
 cd $HOME 
 termux-setup-storage
-pkg update -y && pkg upgrade -y 
+apt update -y && pkg upgrade -y 
 pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y 
 ##########PACKAGES MAIN
-pkg install -y  wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui audaciousv qt5-qtbase-gtk-platformtheme kvantum  qt5ct qt-creator
+apt install -y  curl neofetch wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libnotify xfce4-whiskermenu-plugin xfce4-clipman-plugin xorg-xhost uget ristretto galculator arqiver pinentry-gtk mtpaint lximage-qt lxqt-notificationd lxtask loqui audaciousv qt5-qtbase-gtk-platformtheme kvantum  qt5ct qt-creator
 
  ##########SETUP DIR mv .themes $HOME
 
@@ -69,7 +68,7 @@ pkg install -y  wget mpv-x xfce4 geany thunar geany-plugins leafpad zenity libno
 $w[$g•$w]$y Start desktop : vncserver 
 $w[$g•$w]$y Stop desktop : vncserver -kill :1 
 $w[$g•$w]$y Forgot pass  : vncpasswd 
-$w[$g•$w]$y Connect Your pc via ip wifi : 192.168.43.1:5901
+$w[$g•$w]$y Connect Your pc via ip wifi : 127.0.0.1:5901
 """
 
  
