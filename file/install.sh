@@ -45,7 +45,7 @@ apt install -y  curl neofetch wget mpv-x xfce* geany thunar leafpad zenity xorg*
  rm -rf .local
  rm -rf .vnc
  rm -rf .cache
- rm -rf Desktop
+ # rm -rf Desktop
  #
  cd $HOME/termux-desktop/file
  mv .config $HOME
