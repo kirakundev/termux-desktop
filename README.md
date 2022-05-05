@@ -27,7 +27,7 @@ ok, i added a new feature
 
 #### Command Instaling
 ```bash
-apt update -y && pkg uphrade -y
+apt update -y && pkg upgrade -y
 pkg install -y root-repo
 pkg install -y unstable-repo
 pkg install -y x11-repo
