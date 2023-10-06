@@ -4,7 +4,8 @@
 <p align="center">
 <img src="https://github.com/WarceuHunter/termux-desktop/blob/main/ss/Screenshot_20211224-220119.jpg">
 </p>
-
+### Under maintenance
+I am developing Termux desktop again and under maintenance
 #### whats news?
 
 ok, i added a new feature
